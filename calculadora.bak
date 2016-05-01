@@ -2,9 +2,6 @@
   (display "respuesta >> ")
   (display x)
   (main)
-
-  ;pepito
-  
   )
 
 (define (redirección x)
